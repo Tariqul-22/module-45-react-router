@@ -1,0 +1,10 @@
+nav a{
+    margin-left: 20px;
+}
+
+nav a.active{
+    text-decoration: underline;
+    /* background-color: rgb(107, 227, 64); */
+    color: red;
+    padding: 2px;
+}
